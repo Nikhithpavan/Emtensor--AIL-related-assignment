@@ -1,0 +1,10 @@
+
+Resume Link
+https://drive.google.com/file/d/19Qey_2sokXZKcaO6auZK932orENWDiGO/view?usp=drivesdk
+
+
+Kaggle code repository link:
+https://www.kaggle.com/code/bhargavjanuefg/solution-surapaneni-pavan-nikhith-emit000aiml
+
+Dataset Link:
+https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation/data
